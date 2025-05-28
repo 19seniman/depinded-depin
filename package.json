@@ -1,7 +1,7 @@
 {
-  "name": "airdrop-insiders",
+  "name": "19Seniman From Insider",
   "version": "1.0.0",
-  "description": "A multi-account manager for AirdropInsiders.",
+  "description": "A multi-accounts.",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
     "manager",
     "cli"
   ],
-  "author": "airdropinsiders",
+  "author": "!9Seniman From Insider",
   "license": "MIT"
 }
