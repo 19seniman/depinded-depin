@@ -11,7 +11,7 @@ import readline from 'readline';
 const BASE_URL = 'https://api.depined.org/api';
 
 const displayBanner = () => {
-  console.log(chalk.green(figlet.textSync('AirdropInsiders', { horizontalLayout: 'default' })));
+  console.log(chalk.green(figlet.textSync('🍉🍉19Seniman From Insider🍉🍉', { horizontalLayout: 'default' })));
 };
 
 // Format timestamps
@@ -295,7 +295,7 @@ const main = async () => {
   while (true) {
     console.clear();
     displayBanner(); // Tampilkan banner sebelum setiap refresh tabel
-    console.log(chalk.yellow('Join Us : https://t.me/AirdropInsiderID\n'));
+    console.log(chalk.yellow('Join Us : https://t.me/blockchainproject_19\n'));
     console.log(chalk.cyan('=== Depined Multi-Account Manager ===\n'));
     console.log(createStatsTable(accounts).toString());
     console.log(chalk.cyan('\n=== Activity Log ==='));
