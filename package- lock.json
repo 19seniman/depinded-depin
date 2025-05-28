@@ -1,11 +1,11 @@
 {
-  "name": "airdrop-insiders",
+  "name": "19Seniman From Insider",
   "version": "1.0.0",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
-      "name": "airdrop-insiders",
+      "name": "19Seniman From Insider",
       "version": "1.0.0",
       "license": "MIT",
       "dependencies": {
